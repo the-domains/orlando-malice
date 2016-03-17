@@ -1,7 +1,7 @@
 name: Orlando Malice
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5344422000925988
+typography_spectrum: 0.88862
 title: XIX PROJECT
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#451517'
     - '#8a2729'
     - '#800000'
-  brandStrength: 0.9847375145182014
+  brandStrength: 0.875
   lightness: 0.7559422147460282
   saturation: 0.7910247182007879
   rhythmicContrast: 0.21968463668599725
