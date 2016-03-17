@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Orlando Malice]]></title>
-        <description><![CDATA[Orlando Malice]]></description>
-        <link>https://thegrid.ai/orlando-malice/</link>
+        <title><![CDATA[XIX PROJECT]]></title>
+        <description><![CDATA[XIX PROJECT]]></description>
+        <link>http://www.xixproject.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 17:34:28 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/orlando-malice/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 17:43:47 GMT</lastBuildDate>
+        <atom:link href="http://www.xixproject.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4710d6e1-898a-4967-85ee-1063df9796b9.jpg">]]></description>
-            <link>https://thegrid.ai/orlando-malice/9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21/index.html</link>
+            <title><![CDATA[Hip-Hop Mondays at Austin's]]></title>
+            <description><![CDATA[<article><h1>Hip-Hop Mondays at Austin's</h1><p>Hip-Hop Mondays : 1/24, 2/1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be09d47806e7cb588df8b489921ead8244a90c81.jpg"></article>]]></description>
+            <link>http://www.xixproject.com/9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21/index.html</link>
             <guid isPermaLink="false">9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21</guid>
-            <pubDate>Thu, 17 Mar 2016 17:34:28 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 17:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
