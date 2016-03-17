@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Orlando Malice]]></title>
         <description><![CDATA[Orlando Malice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/orlando-malice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 15:56:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 17:34:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orlando-malice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4710d6e1-898a-4967-85ee-1063df9796b9.jpg">]]></description>
-            <link>undefined9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21/index.html</link>
+            <link>https://thegrid.ai/orlando-malice/9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21/index.html</link>
             <guid isPermaLink="false">9c6cd9f9-d9a5-4187-b39e-7fdbc7577a21</guid>
-            <pubDate>Thu, 17 Mar 2016 15:56:07 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 17:34:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
